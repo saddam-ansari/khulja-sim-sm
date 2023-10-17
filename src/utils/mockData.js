@@ -1,0 +1,156 @@
+// [
+//     {
+//       data: {
+//         id: "334475",
+//         name: "KFC",
+//         cloudinaryImageId: "bdcd233971b7c81bf77e1fa4471280eb",
+//         cuisines: ["Burger", "Biryani", "American", "Snacks", "Fast Food"],
+//         costForTwo: 40000,
+//         deliveryTime: 36,
+//         avgRating: "3.8",
+//       },
+//     },
+//     {
+//       data: {
+//         id: "334476",
+//         name: "Dominos",
+//         cloudinaryImageId: "bdcd233971b7c81bf77e1fa4471280eb",
+//         cuisines: ["Burgers", "Biryani", "American", "Snacks", "Fast Food"],
+//         costForTwo: 40000,
+//         deliveryTime: 36,
+//         avgRating: "4.5",
+//       },
+//     },
+//     {
+//       data: {
+//         id: "334477",
+//         name: "MCD",
+//         cloudinaryImageId: "bdcd233971b7c81bf77e1fa4471280eb",
+//         cuisines: ["Burgers", "Biryani", "American", "Snacks", "Fast Food"],
+//         costForTwo: 40000,
+//         deliveryTime: 36,
+//         avgRating: "4.1",
+//       },
+//     },
+//     {
+//       data: {
+//         id: "334478",
+//         name: "MCD",
+//         cloudinaryImageId: "bdcd233971b7c81bf77e1fa4471280eb",
+//         cuisines: ["Burgers", "Biryani", "American", "Snacks", "Fast Food"],
+//         costForTwo: 40000,
+//         deliveryTime: 36,
+//         avgRating: "4.1",
+//       },
+//     },
+//     {
+//       data: {
+//         id: "334479",
+//         name: "MCD",
+//         cloudinaryImageId: "bdcd233971b7c81bf77e1fa4471280eb",
+//         cuisines: ["Burgers", "Biryani", "American", "Snacks", "Fast Food"],
+//         costForTwo: 40000,
+//         deliveryTime: 36,
+//         avgRating: "4.1",
+//       },
+//     },
+//     {
+//       data: {
+//         id: "334480",
+//         name: "MCD",
+//         cloudinaryImageId: "bdcd233971b7c81bf77e1fa4471280eb",
+//         cuisines: ["Burgers", "Biryani", "American", "Snacks", "Fast Food"],
+//         costForTwo: 40000,
+//         deliveryTime: 36,
+//         avgRating: "4.1",
+//       },
+//     },
+//     {
+//       data: {
+//         id: "334481",
+//         name: "KFC",
+//         cloudinaryImageId: "bdcd233971b7c81bf77e1fa4471280eb",
+//         cuisines: ["Burgers", "Biryani", "American", "Snacks", "Fast Food"],
+//         costForTwo: 40000,
+//         deliveryTime: 36,
+//         avgRating: "4.6",
+//       },
+//     },
+//     {
+//       data: {
+//         id: "334482",
+//         name: "AshaTiffins",
+//         cloudinaryImageId: "bdcd233971b7c81bf77e1fa4471280eb",
+//         cuisines: ["Burger", "Biryani", "American", "Snacks", "Fast Food"],
+//         costForTwo: 40000,
+//         deliveryTime: 36,
+//         avgRating: "3.9",
+//       },
+//     },
+//     {
+//       data: {
+//         id: "334483",
+//         name: "Ansari Cafe",
+//         cloudinaryImageId: "bdcd233971b7c81bf77e1fa4471280eb",
+//         cuisines: ["Burgers", "Biryani", "American", "Snacks", "Fast Food"],
+//         costForTwo: 40000,
+//         deliveryTime: 36,
+//         avgRating: "4.2",
+//       },
+//     },
+//     {
+//       data: {
+//         id: "334484",
+//         name: "Third Wave Coffee",
+//         cloudinaryImageId: "bdcd233971b7c81bf77e1fa4471280eb",
+//         cuisines: ["Burgers", "Biryani", "American", "Snacks", "Fast Food"],
+//         costForTwo: 40000,
+//         deliveryTime: 36,
+//         avgRating: "3.4",
+//       },
+//     },
+//     {
+//       data: {
+//         id: "334485",
+//         name: "Truffles",
+//         cloudinaryImageId: "bdcd233971b7c81bf77e1fa4471280eb",
+//         cuisines: ["Burgers", "Biryani", "American", "Snacks", "Fast Food"],
+//         costForTwo: 40000,
+//         deliveryTime: 36,
+//         avgRating: "4.0",
+//       },
+//     },
+//     {
+//       data: {
+//         id: "334486",
+//         name: "Vidyarthi Bhavan",
+//         cloudinaryImageId: "bdcd233971b7c81bf77e1fa4471280eb",
+//         cuisines: ["Burgers", "Biryani", "American", "Snacks", "Fast Food"],
+//         costForTwo: 40000,
+//         deliveryTime: 36,
+//         avgRating: "3.7",
+//       },
+//     },
+//     {
+//       data: {
+//         id: "334487",
+//         name: "The Royal",
+//         cloudinaryImageId: "bdcd233971b7c81bf77e1fa4471280eb",
+//         cuisines: ["Burgers", "Biryani", "American", "Snacks", "Fast Food"],
+//         costForTwo: 40000,
+//         deliveryTime: 36,
+//         avgRating: "4.4",
+//       },
+//     },
+//     {
+//       data: {
+//         id: "334488",
+//         name: "The International",
+//         cloudinaryImageId: "bdcd233971b7c81bf77e1fa4471280eb",
+//         cuisines: ["Burgers", "Biryani", "American", "Snacks", "Fast Food"],
+//         costForTwo: 40000,
+//         deliveryTime: 36,
+//         avgRating: "4.3",
+//       },
+//     },
+//   ]
