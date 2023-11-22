@@ -25,3 +25,9 @@
 # 2 tyeps of Routing in web app
     - Client Side Routing
     - Server Sile Routing
+
+# Types of testing (developer)
+    - Unit Testing
+    - Integration Testing
+    - End to End Testing - e2e testing
+    
