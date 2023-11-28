@@ -108,9 +108,9 @@ const Body = () => {
             {
               /** if the restaurant rating is less then 4.5 add a promoted label to it */
               restaurant.info.avgRating <= 4.3 ? (
-                <RestaurantCardPromoted resData={restaurant} />
+                <RestaurantCardPromoted resData={restaurant?.info} />
               ) : (
-                <RestaurantCard resData={restaurant} />
+                <RestaurantCard resData={restaurant?.info} />
               )
             }
           </Link>

@@ -1,0 +1,72 @@
+{
+    "id": "23945",
+    "name": "Domino's Pizza",
+    "cloudinaryImageId": "rde17nnu9xcpevuynr6y",
+    "locality": "AJC Bose Road",
+    "areaName": "Taltala",
+    "costForTwo": "₹400 for two",
+    "cuisines": [
+        "Pizzas",
+        "Italian",
+        "Pastas",
+        "Desserts"
+    ],
+    "avgRating": 4.3,
+    "feeDetails": {
+        "restaurantId": "23945",
+        "fees": [
+            {
+                "name": "BASE_DISTANCE",
+                "fee": 3100
+            },
+            {
+                "name": "BASE_TIME"
+            },
+            {
+                "name": "ANCILLARY_SURGE_FEE"
+            }
+        ],
+        "totalFee": 3100
+    },
+    "parentId": "2456",
+    "avgRatingString": "4.3",
+    "totalRatingsString": "10K+",
+    "sla": {
+        "deliveryTime": 34,
+        "lastMileTravel": 2.1,
+        "serviceability": "SERVICEABLE",
+        "slaString": "34 mins",
+        "lastMileTravelString": "2.1 km",
+        "iconType": "ICON_TYPE_EMPTY"
+    },
+    "availability": {
+        "nextCloseTime": "2023-11-29 02:57:00",
+        "opened": true
+    },
+    "badges": {},
+    "isOpen": true,
+    "type": "F",
+    "badgesV2": {
+        "entityBadges": {
+            "imageBased": {},
+            "textBased": {},
+            "textExtendedBadges": {}
+        }
+    },
+    "aggregatedDiscountInfoV3": {
+        "header": "₹100 OFF",
+        "subHeader": "ABOVE ₹999",
+        "discountTag": "FLAT DEAL"
+    },
+    "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+            "lottie": {},
+            "video": {}
+        }
+    },
+    "reviewsSummary": {},
+    "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+    "restaurantOfferPresentationInfo": {}
+}
